@@ -14,5 +14,9 @@ docker run --name="IFCA.Construction.Angular" -p 4000-4020:4000-4020 -p 49153:49
 
 ```
 mkdir -p ~/work/src \
-&& docker run --name="l2c0d3.react" -p 7777-7797:7777-7797 -v ~/work/src:/src --restart unless-stopped -dit node /bin/bash
+&& docker run --name="l2c0d3.react" -p 3000-3020:3000-3020 -v ~/work/src:/src --restart unless-stopped -dit node /bin/bash
 ```
+
+# Learn to use create-react-app
+
+
