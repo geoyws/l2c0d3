@@ -8,4 +8,4 @@ Okay that was for good luck basically. I'm at JAF's house and I'm typing this up
 * L2HTML
 * L2CSS
 * L2JS
-* [L2React](l2c0d3/react.md)
+* [L2React](react.md)
